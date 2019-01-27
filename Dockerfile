@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-LABEL maintainer "iCrawl <icrawltogo@gmail.com>"
+LABEL maintainer "TheBigerGamer <thebigergameroficial@gmail.com>"
 
 # Add package.json for Yarn
 WORKDIR /usr/src/Commando
